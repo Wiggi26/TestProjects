@@ -4,5 +4,5 @@
 class Test {
 def Test(test: String){ println(test)}
   def Test1 = {println("test")}
-
+  def anotherFunction = 1+1
 }
